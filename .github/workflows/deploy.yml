@@ -1,0 +1,4 @@
+- name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        with:
+          domain: dl.20.doume.be
